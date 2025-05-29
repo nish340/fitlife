@@ -59,7 +59,7 @@ A modern, responsive fitness and health platform designed to help users track th
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/nish340/fitlife.git 
 
 # Navigate to the project directory
 cd fitlife
