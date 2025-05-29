@@ -2,6 +2,26 @@
 
 A modern, responsive fitness and health platform designed to help users track their calorie needs, plan their diet, and follow workout routines for a healthier lifestyle.
 
+## App Screenshots
+
+![Screenshot 1](src/assets/one.png)
+![Screenshot 2](src/assets/two.png)
+![Screenshot 3](src/assets/three.png)
+![Screenshot 4](src/assets/four.png)
+![Screenshot 5](src/assets/five.png)
+![Screenshot 6](src/assets/six.png)
+![Screenshot 7](src/assets/seven.png)
+![Screenshot 8](src/assets/eight.png)
+![Screenshot 9](src/assets/nine.png)
+![Screenshot 10](src/assets/ten.png)
+![Screenshot 11](src/assets/one%20one.png)
+![Screenshot 12](src/assets/one%20two.png)
+![Screenshot 13](src/assets/one%20three.png)
+![Screenshot 14](src/assets/one%20four.png)
+![Screenshot 15](src/assets/one%20five.png)
+![Screenshot 16](src/assets/one%20six.png)
+![Screenshot 17](src/assets/one%20seven.png)
+
 ## Features
 
 - **Calorie Calculator**: Calculate daily energy needs based on personal metrics
