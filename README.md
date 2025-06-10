@@ -2,6 +2,9 @@
 
 A modern, responsive fitness and health platform designed to help users track their calorie needs, plan their diet, and follow workout routines for a healthier lifestyle.
 
+## Note ! 
+This repository contains only partial code. The complete project, including the backend, admin portal, and API integrations, is private. For access, please contact me via http://nishchay.online.
+
 ## App Screenshots
 
 ![Screenshot 1](src/assets/one.png)
